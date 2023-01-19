@@ -37,14 +37,14 @@ Repository for the final work of the discipline Architecture of Operating System
 
 ## Status
 
-	- [x] File system initialization - ok;
-	- [x] Add File - ok;
-	- [x] Add Directory - ok;
-	- [] Remove File - in implementation;
-	- [] Remove Directory - in implementation;
-	- [] Move File - in implementation;
-	- [] Move Directory - in implementation;
-	- [] Rename file - in implementation;
+- [x] File system initialization - ok;
+- [x] Add File - ok;
+- [x] Add Directory - ok;
+- [] Remove File - in implementation;
+- [] Remove Directory - in implementation;
+- [] Move File - in implementation;
+- [] Move Directory - in implementation;
+- [] Rename file - in implementation;
 
 <br>
 
